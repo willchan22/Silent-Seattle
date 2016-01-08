@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Seattle Chinese Garden",
+        "Notes": "An imagined geography of peonies, pools, and pavilions",
+        "link": "www.seattlechinesegarden.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35276222229004,
+          47.55312816069254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Seattle Arboretum Trailhead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29934871196747,
+          47.64596719909162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "The Docks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2996813058853,
+          47.64807776783314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Lake Washington View"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29064226150513,
+          47.6547793423886
+        ]
+      }
+    }
+  ]
+}
